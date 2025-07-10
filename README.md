@@ -8,25 +8,6 @@ Atuo como desenvolvedor, com experiência em desenvolvimento de aplicações web
 Minha formação em Direito me proporciona uma base sólida em LGPD e GDPR, complementando meu foco atual em defesa cibernética. Possuo conhecimentos em ferramentas como OSINT, Netcat, Maltego, além de familiaridade com normas ISO/IEC 27001, 27002, entre outras.
 Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em equipe. Estou em constante busca por aprendizado, especialmente em áreas que envolvem segurança da informação. Acredito que posso contribuir com soluções inovadoras, seguras e eficientes para os desafios propostos pela empresa.
 
-<p align="left">
-
- 
-    <a href="https://github.com/LFOSantos">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LFOSantos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LFOSantos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LFOSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
