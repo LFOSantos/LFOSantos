@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Luís Fábio 
 
 **`Desenvolvedora FullStack`**
+**'Analista de Segurança da Informação'**
 
 Sou graduado em Direito pela PUC Minas e atualmente curso Tecnologia da Informação com ênfase em Cibersegurança pela Faculdade Anhanguera, com previsão de conclusão em 2026. Minha trajetória profissional une habilidades técnicas e visão estratégica, adquiridas em empresas que trabalhei como desenvolvedor.
 Atuo como desenvolvedor, com experiência em desenvolvimento de aplicações web, automações utilizando JavaScript, PHP e Python, e suporte técnico. Tenho facilidade em traduzir requisitos de negócio em soluções tecnológicas eficientes, participando ativamente de reuniões estratégicas e na melhoria contínua dos sistemas.
@@ -56,27 +57,11 @@ Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
@@ -96,14 +81,6 @@ Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -120,14 +97,6 @@ Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -141,6 +110,14 @@ Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"    
 />
 
 <br/>
