@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Luís Fábio 
 
-**`Desenvolvedora FullStack`**
-**'Analista de Segurança da Informação'**
+**`Desenvolvedor FullStack`**
+**`Analista de Segurança da Informação`**
 
 Sou graduado em Direito pela PUC Minas e atualmente curso Tecnologia da Informação com ênfase em Cibersegurança pela Faculdade Anhanguera, com previsão de conclusão em 2026. Minha trajetória profissional une habilidades técnicas e visão estratégica, adquiridas em empresas que trabalhei como desenvolvedor.
 Atuo como desenvolvedor, com experiência em desenvolvimento de aplicações web, automações utilizando JavaScript, PHP e Python, e suporte técnico. Tenho facilidade em traduzir requisitos de negócio em soluções tecnológicas eficientes, participando ativamente de reuniões estratégicas e na melhoria contínua dos sistemas.
