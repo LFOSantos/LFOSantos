@@ -8,8 +8,6 @@ Atuo como desenvolvedor, com experiência em desenvolvimento de aplicações web
 Minha formação em Direito me proporciona uma base sólida em LGPD e GDPR, complementando meu foco atual em defesa cibernética. Possuo conhecimentos em ferramentas como OSINT, Netcat, Maltego, além de familiaridade com normas ISO/IEC 27001, 27002, entre outras.
 Tenho raciocínio lógico apurado, perfil proativo e capacidade de trabalhar em equipe. Estou em constante busca por aprendizado, especialmente em áreas que envolvem segurança da informação. Acredito que posso contribuir com soluções inovadoras, seguras e eficientes para os desafios propostos pela empresa.
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
