@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luís Fábio 
+#  Luís Fábio 
 
 **`Desenvolvedor FullStack`**
 **`Analista de Segurança da Informação`**
